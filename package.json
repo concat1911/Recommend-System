@@ -1,0 +1,27 @@
+{
+  "name": "recommend-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clean.js",
+  "dependencies": {
+    "csv-parse": "^4.6.3",
+    "csv-parser": "^2.3.1",
+    "csvjson": "^5.1.0",
+    "jsonexport": "^2.4.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/concat1911/Recommend-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/concat1911/Recommend-System/issues"
+  },
+  "homepage": "https://github.com/concat1911/Recommend-System#readme"
+}
